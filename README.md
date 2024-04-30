@@ -1,7 +1,3 @@
-Certainly! Below is a suggested README.md content that explains the arithmetic expression evaluator program you have. This description can help users understand what the program does, how to use it, and the underlying technologies and concepts involved:
-
----
-
 # Arithmetic Expression Evaluator
 
 This C program evaluates arithmetic expressions provided by the user. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as the use of parentheses to dictate operation precedence.
